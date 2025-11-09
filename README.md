@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 Summary
 ---
 Wazuh is my go to SIEM tool. It's fun to use, open-source, well-documented, runs locally on basic hardware and Wazuh is also free. I've been using Wazuh about a year, on and off, just messing around with it. Since I like Wazuh so much, why not make a full comprehensive project. We're going to skip initial installation but still start with a fresh Wazuh installation. This project will also, perhaps help me pass Cysa+ from CompTIA since that specific cert focuses on logs and SIEMs analysis. I'm big on visuals, that's why one of my favorite things in Cybersecurity is pretty much any tool that shows automated charts, graphics, word clouds, etc. 
